@@ -1,0 +1,19 @@
+body{
+    background: url(https://wallpapercave.com/wp/Rstecz1.jpg)
+}
+
+#cardimage{
+    float:left;
+    padding: 20px
+}
+
+
+footer{
+    margin-top: 30px;
+    padding-top: 20px;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+}
+
