@@ -2,6 +2,10 @@ body{
     background: url(https://wallpapercave.com/wp/Rstecz1.jpg)
 }
 
+.navbar{
+    margin-bottom: 30px;
+}
+
 #cardimage{
     float:left;
     padding: 20px
